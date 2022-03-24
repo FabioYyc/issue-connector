@@ -9,6 +9,8 @@ Command.js was chose for parsing user input via CLI with different command.
 # API Design
 
 Unable to create the Mongodb component and the DB layer in API server architecture due to time constraint.
+![image](https://user-images.githubusercontent.com/45674168/159918891-c0600a1f-a9a7-4463-9ee2-c95e37ed30cd.png)
+
 
 # Improvements
 
