@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const controller = require("./controller");
+const controller = require("./src/controller");
 const app = express();
 const port = 8080; // default port to listen
 
